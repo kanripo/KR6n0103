@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:22.768965
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:29
 #+TITLE: 百法明門論論義
 #+PROPERTY: CBETA_ID X48n0802
 #+PROPERTY: ID KR6n0103
